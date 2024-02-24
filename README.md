@@ -162,20 +162,10 @@
 <!-- second row -->
 <div width="100%" align="center">
 <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/portfolio-react" title="React Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=portfolio-react&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - portfolio react" />
-    </picture>
+  <a align="left" href="https://github.com/sanidhyy/blogfrontend" title="Blog Application">
   </a>
 <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/real-estate-app" title="Real EState App">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=real-estate-app&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - real estate app" />
-    </picture>
+  <a align="right" href="https://github.com/anandkumarpatel1/lootbazarfrontend" title="Loot Bazar">
 </div>
 
 <!-- spaces -->
@@ -184,5 +174,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/anandkumarpatel1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
