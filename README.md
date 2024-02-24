@@ -142,11 +142,11 @@
 <!-- first row -->
 <div width="100%" align="center">
 <!-- repo 1 -->
-  <a align="right" href="https://github.com/anandkumarpatel1/personal-portfolio" title="3D Portfolio">
+  <a align="right" href="https://github.com/anandkumarpatel1/collegeAttendenceFrontend" title="3D Portfolio">
         <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=personal-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=personal-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=personal-portfolio&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=collegeAttendenceFrontend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=collegeAttendenceFrontend&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=collegeAttendenceFrontend&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
     </picture>
   </a>
 <!-- repo 2 -->
