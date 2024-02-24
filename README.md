@@ -125,11 +125,11 @@
   <br />
   <br />
   <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <a href="https://github.com/anandkumarpatel1/github-readme-activity-graph" title="Go to Source">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anandkumarpatel1&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anandkumarpatel1&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandkumarpatel1&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Anand's contribution graph" />
     </picture>
   </a>
 </p>
@@ -142,19 +142,19 @@
 <!-- first row -->
 <div width="100%" align="center">
 <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3d portfolio" />
+  <a align="right" href="https://github.com/anandkumarpatel1/personal-portfolio" title="3D Portfolio">
+        <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=personal-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=personal-portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=personal-portfolio&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
     </picture>
   </a>
 <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="Admin Dashboard">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - mern admin" />
+  <a align="left" href="https://github.com/anandkumarpatel1/youtube-clone" title="Admin Dashboard">
+        <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=youtube-clone&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=youtube-clone&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=youtube-clone&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
     </picture>
 </a>
 </div>
@@ -162,14 +162,19 @@
 <!-- second row -->
 <div width="100%" align="center">
 <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/blogfrontend" title="Blog Application">
+  <a align="left" href="https://github.com/anandkumarpatel1/blogfrontend" title="Blog Application">
+            <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=blogfrontend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=blogfrontend&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=blogfrontend&theme=graywhite&border_radius=10" alt="Anand's repository stats - Blog Web App" />
+    </picture>
   </a>
 <!-- repo 4 -->
   <a align="right" href="https://github.com/anandkumarpatel1/lootbazarfrontend" title="Loot Bazar">
         <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontend&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontend&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontendp&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontend&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
     </picture>
 </div>
 
