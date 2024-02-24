@@ -166,6 +166,11 @@
   </a>
 <!-- repo 4 -->
   <a align="right" href="https://github.com/anandkumarpatel1/lootbazarfrontend" title="Loot Bazar">
+        <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontend&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anandkumarpatel1&repo=lootbazarfrontendp&theme=graywhite&border_radius=10" alt="Anand's repository stats - Loot Bazar" />
+    </picture>
 </div>
 
 <!-- spaces -->
